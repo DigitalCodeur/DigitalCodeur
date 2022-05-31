@@ -1,21 +1,21 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="40%"/>
 </div>
 <div id="badges"align="center">
   <a href=https://www.linkedin.com/in/koffi-samuel-loumon-5180a8233/>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="210" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="160" alt="LinkedIn Badge"/>
   </a>
     <a href="https://twitter.com/loumon_sam">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" width="200" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" width="150" alt="Twitter Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=LOUMON-Koffi-Samuel&style=flat-square&color=blue" width="300" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=LOUMON-Koffi-Samuel&style=flat-square&color=blue" width="250" alt=""/>
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="50%"/>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="30%"/>
 </div>
 
 ### :man_technologist: &nbsp;About Me :
