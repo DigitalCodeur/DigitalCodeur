@@ -8,10 +8,10 @@
     <a href="https://twitter.com/loumon_sam">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" width="150" alt="Twitter Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=LOUMON-Koffi-Samuel&style=flat-square&color=blue" width="250" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=LOUMON-Koffi-Samuel&style=flat-square&color=blue" width="230" alt=""/>
   <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 
 <div id="header" align="center">
