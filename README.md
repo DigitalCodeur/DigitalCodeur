@@ -20,7 +20,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-<h2>I am Web and mobile web developer (BOOTSTRAP, JAVASCRIPT, PHP, LARAVEL) </h2>
+<h2>Développeur web et web mobile (BOOTSTRAP, Tailwind CSS, JAVASCRIPT, PHP, LARAVEL)</h2>
 
 ---
   
