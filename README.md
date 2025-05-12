@@ -62,7 +62,7 @@
 ### 🌐 Me retrouver
 
 - LinkedIn: https://www.linkedin.com/in/koffi-samuel-loumon-5180a8233
-- X: https://x.com/ksloumon](https://x.com/ksloumon
+- X: https://x.com/ksloumon
 - Portfolio: https://scodeur.vercel.app
 
 
