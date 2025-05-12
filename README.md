@@ -61,9 +61,9 @@
 
 ### 🌐 Me retrouver
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/TON-LINKEDIN](https://www.linkedin.com/in/koffi-samuel-loumon-5180a8233/))
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/TON-TWITTER](https://x.com/ksloumon))
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)]([https://TON-PORTFOLIO.com](https://scodeur.vercel.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/koffi-samuel-loumon-5180a8233/](https://www.linkedin.com/in/koffi-samuel-loumon-5180a8233/))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://x.com/ksloumon](https://x.com/ksloumon))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)]([https://scodeur.vercel.app/](https://scodeur.vercel.app/))
 
 
 
