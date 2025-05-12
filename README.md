@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Salut 👋, je suis LOUMON Koffi Samuel </h1>
 <h3 align="center">Développeur Web & Mobile passionné, spécialisé en Flutter, Laravel et WordPress</h3>
 
@@ -45,15 +47,15 @@
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DigitalCodeurE&show_icons=true&theme=tokyonight" alt="stats github"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DigitalCodeur&show_icons=true&theme=tokyonight" alt="stats github"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DigitalCodeurE&theme=tokyonight" alt="contributions"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DigitalCodeur&theme=tokyonight" alt="contributions"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigitalCodeurE&layout=compact&theme=tokyonight" alt="langages utilisés"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigitalCodeur&layout=compact&theme=tokyonight" alt="langages utilisés"/>
 </p>
 
 ---
