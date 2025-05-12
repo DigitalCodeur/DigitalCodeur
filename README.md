@@ -11,7 +11,6 @@
 
 ### 🙋‍♂️ À propos de moi
 
-- 🔭 Je travaille actuellement sur des projets freelance et personnels
 - 🌱 Je me perfectionne en **Flutter**, **Laravel**, **Next.js** et **Firebase**
 - 💬 Pose-moi des questions sur **Flutter**, **Laravel**, **WordPress**
 - 📫 Contact : **lkoffisamuel@gmail.com**
